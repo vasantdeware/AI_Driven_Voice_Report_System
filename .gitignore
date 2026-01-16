@@ -1,5 +1,10 @@
-# Virtual Environment
-ai_reporting_env/
+# Virtual Environment (exclude only unnecessary parts)
+ai_reporting_env/Lib/
+ai_reporting_env/Scripts/
+ai_reporting_env/Include/
+ai_reporting_env/etc/
+ai_reporting_env/share/
+ai_reporting_env/pyvenv.cfg
 venv/
 env/
 
